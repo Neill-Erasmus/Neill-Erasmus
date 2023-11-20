@@ -1,10 +1,10 @@
 # Hello, I'm [Neill]! 👋
 
-I'm a passionate [software developer] based in [South Africa]. Welcome to my GitHub profile!
+I'm a passionate software developer based in South Africa. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science and Nelson Mandela University
+- 🎓 Studying Computer Science and [Nelson Mandela University](https://www.mandela.ac.za/)
 - 💬 Ask me about anything
 - 📫 How to reach me: neill.erasmus@icloud.com
 
