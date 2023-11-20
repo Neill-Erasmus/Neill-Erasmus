@@ -23,7 +23,9 @@ I'm a passionate software developer based in South Africa. Welcome to my GitHub 
 
 ## 🛠️ Projects
 
-[Highlight some of your notable GitHub projects.]
+1.  Chrome Dino Bot : [repo](https://github.com/Neill-Erasmus/auto-chrome-dino_)
+2.  Tic Tac Toe : [repo](https://github.com/Neill-Erasmus/tic-tac-toe)
+3.  Text to Morse Code : [repo](https://github.com/Neill-Erasmus/text-to-morse-code)
 
 ## 🏆 GitHub Trophies
 
