@@ -1,6 +1,6 @@
 # Howzit, I'm Neill 👋
 
-I'm a passionate software developer based in South Africa. Welcome to my GitHub profile.
+I'm a passionate software developer based in South Africa.
 
 ## 🚀 About Me
 
