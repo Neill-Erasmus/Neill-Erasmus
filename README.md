@@ -1,24 +1,28 @@
-# Howzit, I'm Neill 👋
+# Welcome to My GitHub Profile 👋
 
-I'm a passionate software developer based in South Africa.
+## About Me
+Hello! I'm Neill, a computer science student passionate about artificial intelligence. I enjoy programming and love to explore new technologies.
 
-## 🚀 About Me
+## 🚀 Skills
+- Programming Languages: Python, C#
 
-- 🎓 Studying Computer Science at [Nelson Mandela University](https://www.mandela.ac.za/)
-- 📫 How to reach me: neill.erasmus@icloud.com
-- 📌 Port Elizabeth, South Africa
+## 🌱 Learning
+I'm currently focusing on improving my skills in machine learning, deep learning and artificial intelligence. Always eager to learn and grow!
 
-## 🔧 Technologies & Tools
+## 🔭 Projects
+Check out some of my notable projects:
+- [PDF to AudioBook](https://github.com/Neill-Erasmus/pdf-to-audiobook)
+- [Automated Chrome Dino]([link-to-project-2](https://github.com/Neill-Erasmus/chrome-dino-automated))
 
-1.  Python
-2.  C#
-3.  Git & GitHub
+## 📫 Contact
+Let's connect! Feel free to reach out:
+- [LinkedIn](https://www.linkedin.com/in/neill-jean-erasmus/)
 
-## 🌐 Connect with Me
-
-1. E-Mail   : (neill.erasmus@icloud.com)
-2. LinkedIn : (www.linkedin.com/in/neill-jean-erasmus)
+## 🤝 Let's Collaborate
+I'm open to collaboration and new opportunities. If you have any interesting projects or ideas, let's discuss and create something awesome together!
 
 ## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&theme=dark)
+## 🏆 GitHub Trophies
+[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
