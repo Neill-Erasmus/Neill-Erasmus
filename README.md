@@ -12,8 +12,8 @@ I'm currently focusing on improving my skills in machine learning, deep learning
 ## 🔭 Projects
 Check out some of my notable projects:
 - [Customer Personality Analysis](https://github.com/Neill-Erasmus/customer-personality-analysis?tab=readme-ov-file)
-- [PDF to AudioBook](https://github.com/Neill-Erasmus/pdf-to-audiobook)
-- [Automated Chrome Dino](https://github.com/Neill-Erasmus/chrome-dino-automated)
+- [Sugarcane Leaf Disease Detection](https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection)
+- [Diabetes Prediction](https://github.com/Neill-Erasmus/diabetes-classification)
 
 ## 📫 Contact
 Let's connect! Feel free to reach out:
