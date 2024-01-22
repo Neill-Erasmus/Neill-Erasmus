@@ -1,13 +1,16 @@
-# Welcome to My GitHub Profile 👋
+# Neill Jean Erasmus
 
 ## About Me
-Hello! I'm Neill, a computer science student passionate about artificial intelligence. I enjoy programming and love to explore new technologies.
+I am a computer science student with a passion and interest for anything related to artificial intelligence. Whether it's understanding the nuances of machine learning algorithms, exploring the potential of neural networks, or diving into the latest AI applications, I am continually driven by the desire to unravel the possibilities that AI presents in the world of technology.
 
 ## 🚀 Skills
-- Programming Languages: Python, C#
+- Python
+- C#
+- Machine Learning
+- Deep Learning
 
 ## 🌱 Learning
-I'm currently focusing on improving my skills in machine learning, deep learning and artificial intelligence. Always eager to learn and grow!
+I am currently focusing on improving my artificial intelligence skillset, specifically in the field of Deep Learning.
 
 ## 🔭 Projects
 Check out some of my notable projects:
@@ -20,7 +23,7 @@ Let's connect! Feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/neill-jean-erasmus/)
 
 ## 🤝 Let's Collaborate
-I'm open to collaboration and new opportunities. If you have any interesting projects or ideas, let's discuss and create something awesome together!
+I am interest in collaborating on any AI related projects!
 
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
