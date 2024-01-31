@@ -1,6 +1,6 @@
 # Neill Jean Erasmus
 
-## About Me
+## 💥 About Me
 
 I'm a computer science student with a strong passion and a keen interest for artificial intelligence. I love diving into the details of machine learning models and algorithms, trying to understand how they work. Exploring the potential of neural networks is something that really excites me – figuring out how they replicate human-like thinking.
 
@@ -82,11 +82,16 @@ Check out some of my more notable projects:
 
 Let's connect! Feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/neill-jean-erasmus/)
-
-## 🤝 Let's Collaborate
-
-I am interested on collaborating on any projects especially those that involve artificial intelligence!
+<div id="badges">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/neill-jean-erasmus">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="mailto:neill.erasmus@icloud.com">
+        <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru" alt="Email Badge">
+    </a>
+  </p>
+</div>
 
 ## 📈 GitHub Stats
 
@@ -103,3 +108,7 @@ I am interested on collaborating on any projects especially those that involve a
     <img alt="Your GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub">
   </a>
 </p>
+
+## 🤝 Let's Collaborate
+
+I am interested on collaborating on any projects especially those that involve artificial intelligence!
