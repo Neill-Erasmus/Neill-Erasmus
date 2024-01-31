@@ -1,32 +1,105 @@
 # Neill Jean Erasmus
 
 ## About Me
-I am a computer science student with a passion and interest for anything related to artificial intelligence. Whether it's understanding the nuances of machine learning algorithms, exploring the potential of neural networks, or diving into the latest AI applications, I am continually driven by the desire to unravel the possibilities that AI presents in the world of technology.
+
+I'm a computer science student with a strong passion and a keen interest for artificial intelligence. I love diving into the details of machine learning models and algorithms, trying to understand how they work. Exploring the potential of neural networks is something that really excites me – figuring out how they replicate human-like thinking.
+
+But it's not just theory for me; I'm all about practical applications. I stay updated on the latest in AI, getting hands-on with the newest developments. Whether it's improving natural language processing, advancing image recognition, or changing industries with automation, I'm eager to see how AI makes a real positive impact on the world.
+
+This isn't just a study path for me; it's a journey of discovery into the endless possibilities that AI brings to the tech world. I'm all about continuous learning, believing that grasping and using the power of artificial intelligence can bring about some really cool changes across different fields.
 
 ## 🚀 Skills
+
+### Languages
+
 - Python
 - C#
-- Machine Learning
-- Deep Learning
+
+### Machine Learning
+
+- Regression
+- Classification
+- Clustering
+- Association Rule Learning
+- Reinforcement Learning
+- Natural Language Processing
+- Dimensionality Reduction
+
+### Deep Learning
+
+- Artificial Neural Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+- Self Organizing Maps
+- Boltzman Machines
+- Autoencoders
+
+### Artificial Intelligence
+
+- Q-Learning
+- Deep Q-Learning
+- Deep Convolutional Q-Learning
+- A3C (Asynchronous Advantage Actor-Critic)
+- Augmented Random Search
+
+### Computer Vision
+
+- Convolutional Neural Networks
+- Generative Adverserial Networks
+- Deep Convolutional Generative Adverserial Networks
 
 ## 🌱 Learning
-I am currently focusing on improving my artificial intelligence skillset, specifically in the field of Deep Learning.
+
+Currently, I am really focused on improving my knowledge and practical ability in the areas listed in my skills section. I think it is important to keep learning because there's always more to know about everything. I believe that understanding things well is a constant journey, and I am working on not just being good but really understanding how everything works in the areas I am interested in.
+
+### Studies
+
+I am currently pursuing my Bachelors Degree in Computer Science at Nelson Mandela University.
+
+### Courses
+
+- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
+- [Machine Learning A-Z: AI, Python [2024]](https://www.udemy.com/course/machinelearning/)
+- [Deep Learning A-Z 2024: Neural Networks, AI](https://www.udemy.com/course/deeplearning/)
+- [Artificial Intelligence A-Z 2024: Build 5 AI](https://www.udemy.com/course/artificial-intelligence-az/)
+- [Deep Learning and Computer Vision A-Z](https://www.udemy.com/course/computer-vision-a-z/)
+- [Artificial Intelligence (ARS): Build the Most Powerful AI](https://www.udemy.com/course/artificial-intelligence-ars/)
 
 ## 🔭 Projects
-Check out some of my notable projects:
-- [Customer Personality Analysis](https://github.com/Neill-Erasmus/customer-personality-analysis?tab=readme-ov-file)
+
+Check out some of my more notable projects:
+
+- [AI Generated Art](https://github.com/Neill-Erasmus/ai-generated-art)
+- [Lunar Lander](https://github.com/Neill-Erasmus/lunar-lander)
 - [Sugarcane Leaf Disease Detection](https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection)
 - [Diabetes Prediction](https://github.com/Neill-Erasmus/diabetes-classification)
+- [Customer Personality Analysis](https://github.com/Neill-Erasmus/customer-personality-analysis?tab=readme-ov-file)
+- [Study Hours Regression](https://github.com/Neill-Erasmus/study-hours-regression)
 
 ## 📫 Contact
+
 Let's connect! Feel free to reach out:
+
 - [LinkedIn](https://www.linkedin.com/in/neill-jean-erasmus/)
 
 ## 🤝 Let's Collaborate
-I am interest in collaborating on any AI related projects!
+
+I am interested on collaborating on any projects especially those that involve artificial intelligence!
 
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&count_private=true&hide=contribs&theme=dark">
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Your GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub">
+  </a>
+</p>
