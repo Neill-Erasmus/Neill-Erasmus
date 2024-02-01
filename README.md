@@ -10,7 +10,7 @@ This isn't just a study path for me; it's a journey of discovery into the endles
 
 ## 🚀 Skills
 
-### Languages
+### Programming Languages
 
 - Python
 - C#
@@ -56,7 +56,7 @@ Currently, I am really focused on improving my knowledge and practical ability i
 
 I am currently pursuing my Bachelors Degree in Computer Science at Nelson Mandela University.
 
-### Courses
+### Udemy Courses
 
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
