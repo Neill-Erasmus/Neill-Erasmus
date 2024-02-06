@@ -71,6 +71,7 @@ I am currently pursuing my Bachelors Degree in Computer Science at Nelson Mandel
 
 Check out some of my more notable projects:
 
+- [Pacman](https://github.com/Neill-Erasmus/pacman)
 - [AI Generated Art](https://github.com/Neill-Erasmus/ai-generated-art)
 - [Lunar Lander](https://github.com/Neill-Erasmus/lunar-lander)
 - [Sugarcane Leaf Disease Detection](https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection)
