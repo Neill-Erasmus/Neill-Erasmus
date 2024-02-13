@@ -2,21 +2,23 @@
 
 ## 💥 About Me
 
-Driven and forward-thinking Computer Science student at Nelson Mandela
-University, with a strong passion for AI and machine learning. Equipped with a
-diverse skill set honed through academic pursuits and hands-on project
-experiences, as evidenced by my portfolio on GitHub.
-I am deeply committed to leveraging technology to solve real-world challenges
-and drive positive change. Inspired by a dedication to innovation and
-excellence, I am constantly seeking to push the boundaries of what is possible
-in the field of AI and machine learning.
-With a keen understanding of the importance of user-centric design and a
-commitment to quality craftsmanship, I am well-positioned to contribute
-effectively to projects that demand both technical expertise and creative
-thinking.
-As I embark on the next phase of my career journey, I am eager to apply my
-skills and passion to an organization that values innovation, collaboration, and
-a commitment to making a meaningful impact on the world through technology.
+<p style="text-align: justify;">
+  Driven and forward-thinking Computer Science student at Nelson Mandela
+  University, with a strong passion for AI and machine learning. Equipped with a
+  diverse skill set honed through academic pursuits and hands-on project
+  experiences, as evidenced by my portfolio on GitHub.
+  I am deeply committed to leveraging technology to solve real-world challenges
+  and drive positive change. Inspired by a dedication to innovation and
+  excellence, I am constantly seeking to push the boundaries of what is possible
+  in the field of AI and machine learning.
+  With a keen understanding of the importance of user-centric design and a
+  commitment to quality craftsmanship, I am well-positioned to contribute
+  effectively to projects that demand both technical expertise and creative
+  thinking.
+  As I embark on the next phase of my career journey, I am eager to apply my
+  skills and passion to an organization that values innovation, collaboration, and
+  a commitment to making a meaningful impact on the world through technology.
+</p>
 
 ## 🚀 Skills
 
