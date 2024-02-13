@@ -2,11 +2,21 @@
 
 ## 💥 About Me
 
-I'm a computer science student with a strong passion and a keen interest for artificial intelligence. I love diving into the details of machine learning models and algorithms, trying to understand how they work. Exploring the potential of neural networks is something that really excites me – figuring out how they replicate human-like thinking.
-
-But it's not just theory for me; I'm all about practical applications. I stay updated on the latest in AI, getting hands-on with the newest developments. Whether it's improving natural language processing, advancing image recognition, or changing industries with automation, I'm eager to see how AI makes a real positive impact on the world.
-
-This isn't just a study path for me; it's a journey of discovery into the endless possibilities that AI brings to the tech world. I'm all about continuous learning, believing that grasping and using the power of artificial intelligence can bring about some really cool changes across different fields.
+Driven and forward-thinking Computer Science student at Nelson Mandela
+University, with a strong passion for AI and machine learning. Equipped with a
+diverse skill set honed through academic pursuits and hands-on project
+experiences, as evidenced by my portfolio on GitHub.
+I am deeply committed to leveraging technology to solve real-world challenges
+and drive positive change. Inspired by a dedication to innovation and
+excellence, I am constantly seeking to push the boundaries of what is possible
+in the field of AI and machine learning.
+With a keen understanding of the importance of user-centric design and a
+commitment to quality craftsmanship, I am well-positioned to contribute
+effectively to projects that demand both technical expertise and creative
+thinking.
+As I embark on the next phase of my career journey, I am eager to apply my
+skills and passion to an organization that values innovation, collaboration, and
+a commitment to making a meaningful impact on the world through technology.
 
 ## 🚀 Skills
 
