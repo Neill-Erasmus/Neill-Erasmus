@@ -3,65 +3,28 @@
 ## 💥 About Me
 
 <p style="text-align: justify;">
-  Driven and forward-thinking Computer Science student at Nelson Mandela University, with a strong passion for AI and machine learning. 
-  Equipped with a diverse skill set honed through academic pursuits and hands-on project experiences, as evidenced by my portfolio on GitHub.
-  
-  I am deeply committed to leveraging technology to solve real-world challenges and drive positive change.
-  Inspired by a dedication to innovation and excellence, I am constantly seeking to push the boundaries of what is possible in the field of AI and machine learning.
-  With a keen understanding of the importance of user-centric design and a commitment to quality craftsmanship, I am well-positioned to contribute
-  effectively to projects that demand both technical expertise and creative thinking.
-  
-  As I embark on the next phase of my career journey, I am eager to apply my skills and passion to an organization that values innovation, collaboration, 
-  and a commitment to making a meaningful impact on the world through technology.
+  I am a Computer Science student at Nelson Mandela University with a passion for AI and machine learning. Through academic pursuits and hands-on projects, I’ve developed a strong skill set that allows me to   tackle real-world challenges using technology.
+
+I am committed to leveraging AI and machine learning to drive innovation and solve complex problems. Always eager to learn, I continuously strive to push the boundaries of what is possible and contribute meaningfully to projects requiring both technical expertise and creative thinking.
+
+I am currently seeking opportunities to apply my skills in machine learning, AI, and software development, with a focus on innovation and impactful solutions.
 </p>
 
 ## 🚀 Skills
 
-### Programming Languages
-
-- Python
-- C#
-
-### Machine Learning
-
-- Regression
-- Classification
-- Clustering
-- Association Rule Learning
-- Reinforcement Learning
-- Natural Language Processing
-- Dimensionality Reduction
-
-### Deep Learning
-
-- Artificial Neural Networks
-- Convolutional Neural Networks
-- Recurrent Neural Networks
-- Self Organizing Maps
-- Boltzman Machines
-- Autoencoders
-
-### Artificial Intelligence
-
-- Q-Learning
-- Deep Q-Learning
-- Deep Convolutional Q-Learning
-- A3C (Asynchronous Advantage Actor-Critic)
-- Augmented Random Search
-
-### Computer Vision
-
-- Convolutional Neural Networks
-- Generative Adverserial Networks
-- Deep Convolutional Generative Adverserial Networks
+- **Programming Languages**: Python, C#
+- **Machine Learning**: Regression, Classification, Clustering, Reinforcement Learning, NLP, Dimensionality Reduction
+- **Deep Learning**: CNNs, RNNs, Autoencoders, GANs, Self-Organizing Maps
+- **AI**: Q-Learning, Deep Q-Learning, A3C, Augmented Random Search
+- **Computer Vision**: CNNs, GANs, DCGANs
 
 ## 🌱 Learning
 
-Currently, I am really focused on improving my knowledge and practical ability in the areas listed in my skills section. I think it is important to keep learning because there's always more to know about everything. I believe that understanding things well is a constant journey, and I am working on not just being good but really understanding how everything works in the areas I am interested in.
+I’m dedicated to deepening my understanding of AI, machine learning, and data science. Continuously refining my skills and knowledge.
 
 ### Studies
 
-I am currently pursuing my Bachelors Degree in Computer Science at Nelson Mandela University.
+- Bachelors Degree in Computer Science – Nelson Mandela University. Currently in my final undergraduate year.
 
 ### Udemy Courses
 
@@ -116,7 +79,3 @@ Let's connect! Feel free to reach out:
     <img alt="Your GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub">
   </a>
 </p>
-
-## 🤝 Let's Collaborate
-
-I am interested on collaborating on any projects especially those that involve artificial intelligence!
