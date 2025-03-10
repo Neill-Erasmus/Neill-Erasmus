@@ -26,17 +26,6 @@ I’m dedicated to deepening my understanding of AI, machine learning, and data 
 
 - Bachelors Degree in Computer Science – Nelson Mandela University. Currently in my final undergraduate year.
 
-### Udemy Courses
-
-- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
-- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
-- [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
-- [Machine Learning A-Z: AI, Python [2024]](https://www.udemy.com/course/machinelearning/)
-- [Deep Learning A-Z 2024: Neural Networks, AI](https://www.udemy.com/course/deeplearning/)
-- [Artificial Intelligence A-Z 2024: Build 5 AI](https://www.udemy.com/course/artificial-intelligence-az/)
-- [Deep Learning and Computer Vision A-Z](https://www.udemy.com/course/computer-vision-a-z/)
-- [Artificial Intelligence (ARS): Build the Most Powerful AI](https://www.udemy.com/course/artificial-intelligence-ars/)
-
 ## 📫 Contact
 
 Let's connect! Feel free to reach out:
