@@ -37,18 +37,6 @@ I’m dedicated to deepening my understanding of AI, machine learning, and data 
 - [Deep Learning and Computer Vision A-Z](https://www.udemy.com/course/computer-vision-a-z/)
 - [Artificial Intelligence (ARS): Build the Most Powerful AI](https://www.udemy.com/course/artificial-intelligence-ars/)
 
-## 🔭 Projects
-
-Check out some of my more notable projects:
-
-- [Pacman](https://github.com/Neill-Erasmus/pacman)
-- [AI Generated Art](https://github.com/Neill-Erasmus/ai-generated-art)
-- [Lunar Lander](https://github.com/Neill-Erasmus/lunar-lander)
-- [Sugarcane Leaf Disease Detection](https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection)
-- [Diabetes Prediction](https://github.com/Neill-Erasmus/diabetes-classification)
-- [Customer Personality Analysis](https://github.com/Neill-Erasmus/customer-personality-analysis?tab=readme-ov-file)
-- [Study Hours Regression](https://github.com/Neill-Erasmus/study-hours-regression)
-
 ## 📫 Contact
 
 Let's connect! Feel free to reach out:
@@ -63,19 +51,3 @@ Let's connect! Feel free to reach out:
     </a>
   </p>
 </div>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neill-Erasmus&show_icons=true&count_private=true&hide=contribs&theme=dark">
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Your GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Neill-Erasmus&theme=darkhub">
-  </a>
-</p>
