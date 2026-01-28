@@ -22,10 +22,10 @@ I am a Computer Science Honours student with a focus on Artificial Intelligence 
 - **Highlights:** Accurate image classification of multiple disease types, API inference and Docker support.  
 
 ## 🔹 Tech Stack
-**Languages:** Python, SQL, C#, Java
-**ML / AI:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn 
-**Data & Visualization:** Pandas, NumPy, Matplotlib, OpenCV  
-**Other Tools:** Git, GitHub
+- **Languages:** Python, SQL, C#, Java
+- **ML / AI:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn 
+- **Data & Visualization:** Pandas, NumPy, Matplotlib, OpenCV  
+- **Other Tools:** Git, GitHub
 
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neill_Erasmus-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
