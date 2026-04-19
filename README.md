@@ -19,7 +19,12 @@ I am a Computer Science Honours student with a focus on Artificial Intelligence 
 ### 1️⃣ [Sugarcane Leaf Disease Detection](https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection)
 - **Description:** An AI-powered solution for detecting sugarcane leaf diseases from images.  
 - **Tech Used:** Python, PyTorch, Convolutional Neural Networks (CNNs)  
-- **Highlights:** Accurate image classification of multiple disease types, API inference and Docker support.  
+- **Highlights:** Accurate image classification of multiple disease types, API inference and Docker support.
+
+### 2️⃣ [Agentic Research Assistant](https://github.com/Neill-Erasmus/agentic-research-assistant)
+- **Description:** An autonomous multi-agent system that automates research by orchestrating specialized LLM agents.
+- **Tech Used:** Python, Ollama.
+- **Highlights:** Implements an Orchestrator -> Searcher -> Summariser -> Fact Checker -> Citation agent architecture.
 
 ## 🔹 Tech Stack
 - **Languages:** Python, SQL, C#, Java
