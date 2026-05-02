@@ -44,7 +44,7 @@ I'm a Computer Science Honours student with a passion for **Artificial Intellige
 
 ---
 
-## �️ Tech Stack
+##  ️ Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -67,7 +67,7 @@ I'm a Computer Science Honours student with a passion for **Artificial Intellige
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## � Let's Connect
+##   Let's Connect
 
 I'm open to collaborations, discussions about AI/ML, and exciting opportunities!
 
