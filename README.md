@@ -12,6 +12,12 @@
 I'm a Computer Science Honours student with a passion for creating software solutions to problems.
 
 ## 🔹 Current Focus
+I am currently working on my **research project** titled: "Species Distribution Modelling and Forecasting of Southern African Birds using Machine Learning and Citizen Science Data". The goals of this project are to:
+- Use citizen science data for modelling species distributions in Southern Africa
+- Develop genetic algorithms and neural networks for modelling species distributions
+- Forecast the potential future distribution of a species based on potential changes to the environment
+
+Otherwise my **university coursework** is currently focusing on:
 - Artificial Neural Networks
 - Machine Learning
 - Evolutionary Computing 
