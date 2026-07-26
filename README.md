@@ -1,19 +1,20 @@
 # 👋 Neill Erasmus
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=flat&logo=ollama&logoColor=black)
 
-**🎯 AI/ML Engineer | Honours Computer Science Student**
+**🎯 Software Engineer | Honours Computer Science Student**
 
-I'm a Computer Science Honours student with a passion for **Artificial Intelligence and Machine Learning**. I love developing AI solutions that solve real-world problems. My work bridges the gap between research and practical applications.
+I'm a Computer Science Honours student with a passion for creating software solutions to problems.
 
 ## 🔹 Current Focus
-- Deep learning and neural networks (PyTorch / TensorFlow)  
-- Machine learning pipelines & data preprocessing   
-- Expanding my portfolio with practical, real-world projects  
+- Artificial Neural Networks
+- Machine Learning
+- Evolutionary Computing 
 
 ## 🔹 Featured Projects
 
@@ -54,25 +55,11 @@ I'm a Computer Science Honours student with a passion for **Artificial Intellige
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI/ML & Deep Learning:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Data & Visualization:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
 **DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ##   Let's Connect
-
-I'm open to collaborations, discussions about AI/ML, and exciting opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neill_Erasmus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neill-erasmus/)
 [![Email](https://img.shields.io/badge/Email-neill.erasmus%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neill.erasmus@icloud.com)
