@@ -3,9 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=flat&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=flat&logo=ollama&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
 
 **🎯 Software Engineer | Honours Computer Science Student**
 
