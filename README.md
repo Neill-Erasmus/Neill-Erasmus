@@ -1,11 +1,8 @@
 # 👋 Neill Erasmus
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **🎯 Software Engineer | Honours Computer Science Student**
 
@@ -56,19 +53,24 @@ Otherwise my **university coursework** is currently focusing on:
 ##  ️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **DevOps & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Other:**  
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=flat&logo=ollama&logoColor=black)
 
 ##   Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neill_Erasmus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neill-erasmus/)
-[![Email](https://img.shields.io/badge/Email-neill.erasmus%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neill.erasmus@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Neill--Erasmus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neill-Erasmus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neill_Erasmus-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neill-erasmus/)
+[![Email](https://img.shields.io/badge/Email-neill.erasmus%40icloud.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:neill.erasmus@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Neill--Erasmus-181717?style=flat&logo=github&logoColor=white)](https://github.com/Neill-Erasmus)
 
 ---
